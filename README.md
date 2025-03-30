@@ -1,2 +1,0 @@
-# monkeypedia
-Wikipedia of monkey
